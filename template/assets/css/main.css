@@ -1666,30 +1666,30 @@ input, select, textarea {
 			font-size: 1em;
 			min-width: 14em;
 		}
-
+/* not sure what colors*/
 		input[type="button"].style1,
 		input[type="submit"].style1,
 		input[type="reset"].style1,
 		button.style1,
 		.button.style1 {
-			background: #e97770 url("images/overlay.png");
+			background: #00364d url("images/overlay.png");
 			color: #fff;
 		}
-
+/* button colors */
 			input[type="button"].style1:hover,
 			input[type="submit"].style1:hover,
 			input[type="reset"].style1:hover,
 			button.style1:hover,
 			.button.style1:hover {
-				background-color: #f98780;
+				background-color: #00364d;
 			}
-
+/* not sure what colors */
 			input[type="button"].style1:active,
 			input[type="submit"].style1:active,
 			input[type="reset"].style1:active,
 			button.style1:active,
 			.button.style1:active {
-				background-color: #d96760;
+				background-color: #00364d;
 			}
 
 		input[type="button"].style2,
@@ -1740,7 +1740,7 @@ input, select, textarea {
 			input[type="reset"].style3:active,
 			button.style3:active,
 			.button.style3:active {
-				background-color: #1f232b;
+				background-color: #00364d;
 			}
 
 /* List */
@@ -1850,7 +1850,7 @@ input, select, textarea {
 		}
 
 		.feature-list h3 {
-			color: #e97770 !important;
+			color: #ffffff !important;
 			margin: -0.35em 0 0.75em 0;
 			font-size: 1.15em;
 			letter-spacing: 0.05em;
@@ -2002,13 +2002,13 @@ input, select, textarea {
 			}
 
 		.wrapper.style1 {
-			background: #e97770 url("images/overlay.png");
+			background: #00364d url("images/overlay.png");
 			color: #eee;
 			color: rgba(255, 255, 255, 0.75);
 		}
 
 			.wrapper.style1 .title {
-				background: #e97770 url("images/overlay.png");
+				background: #00364d url("images/overlay.png");
 				color: #fff;
 			}
 
@@ -2031,7 +2031,7 @@ input, select, textarea {
 
 			.wrapper.style3 .title {
 				background: #f3f3f3 url("images/overlay.png");
-				color: #484d55;
+				color: #00364d;
 			}
 
 			.wrapper.style3 .image {
@@ -2162,7 +2162,7 @@ input, select, textarea {
 				}
 
 	.dropotron {
-		background: #222835 url("images/overlay.png");
+		background: #00364d url("images/overlay.png");
 		background-color: rgba(44, 50, 63, 0.925);
 		padding: 1.25em 1em 1.25em 1em;
 		border-radius: 0.35em;
@@ -2261,7 +2261,7 @@ input, select, textarea {
 	}
 
 		#highlights .highlight h3 {
-			color: #e97770;
+			color: #00364d;
 			margin: 0 0 0.75em 0;
 			font-size: 1.15em;
 			letter-spacing: 0.05em;
@@ -2283,7 +2283,7 @@ input, select, textarea {
 		}
 
 		#footer hr {
-			border-top-color: #333;
+			border-top-color: #00364d;
 			border-top-color: rgba(255, 255, 255, 0.05);
 		}
 
